@@ -2,7 +2,7 @@
 
 <h4>Topi Järvinen</h4>
 
-Sadly I haven't made my own portfolio website yet. Not that much to show here, but atleast something!
+Sadly I haven't made my own portfolio website yet. Here I have some links to some of my projects.
 <br/><br/>
 
 <h3>Moonfang Gaming News and Game Guides</h3>
@@ -12,7 +12,7 @@ Repository: https://github.com/Topi1/moonfang
 
 Currently working on this project for my final thesis. My thesis topic is "Design and implementation of web user interface". 
 <br/>
-Using HTML, JSX and Vanilla CSS.
+Using JSX and Vanilla CSS.
 <br/>
 Logos and icons made by me in Canva. 
 <br/>

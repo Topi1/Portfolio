@@ -10,7 +10,7 @@ Sadly I haven't made my own portfolio website yet. Here I have some links to som
 Live: https://topi1.github.io/moonfang/ <br/>
 Repository: https://github.com/Topi1/moonfang
 
-Currently working on this project for my final thesis. My thesis topic is "Design and implementation of web user interface". 
+Currently working on this project for my thesis. My thesis topic is "Design and implementation of web user interface". 
 <br/>
 Using JSX and Vanilla CSS.
 <br/>

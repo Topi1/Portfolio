@@ -14,6 +14,8 @@ Currently working on this project for my final thesis. My thesis topic is "Desig
 <br/>
 Using HTML, JSX and Vanilla CSS.
 <br/>
+Logos and icons made by me in Canva. 
+<br/>
 This is my first Vite + React project. WIP!
 <br/><br/>
 

@@ -16,7 +16,8 @@ Using JSX and Vanilla CSS.
 <br/>
 Logos and icons made by me in Canva. 
 <br/>
-This is my first Vite + React project. WIP!
+This is my first Vite + React project.<br/>
+WIP!
 <br/><br/>
 
 <h3>Some JavaScript focused small projects I have done on The Odin Project - course:</h3>

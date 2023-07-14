@@ -2,7 +2,7 @@
 
 <h4>Topi Järvinen</h4>
 
-Sadly I haven't made my own portfolio website yet. Here I have some links to some of my projects.
+Sadly I haven't made my own portfolio website yet. Here I have some links to my projects.
 <br/><br/>
 
 <h3>Moonfang Gaming News and Game Guides</h3>
@@ -23,4 +23,5 @@ This is my first Vite + React project. WIP!
 
 Etc-A-Sketch  <br/>
 Live: https://topi1.github.io/etch-a-sketch/ <br/>
-Repository: https://github.com/Topi1/etch-a-sketch
+Repository: https://github.com/Topi1/etch-a-sketch <br/>
+HTML, CSS, JS

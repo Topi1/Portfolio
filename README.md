@@ -5,6 +5,14 @@
 Sadly I haven't made my own portfolio website yet. Here I have some links to my projects.
 <br/><br/>
 
+<h3>Media Scroller</h3>
+<br/>
+Live: https://topi1.github.io/media-scroller/ <br/>
+Repository: https://github.com/Topi1/media-scroller <br/>
+I practised making horizontal scroller, so I made simple homepage for streaming service. <br/>
+Can change movie/show by clicking, and mobile version looks allright also.
+<br/><br/>
+
 <h3>Moonfang Gaming News and Game Guides</h3>
 <br/>
 Live: https://topi1.github.io/moonfang/ <br/>

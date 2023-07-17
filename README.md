@@ -3,6 +3,8 @@
 <h4>Topi Järvinen</h4>
 
 Sadly I haven't made my own portfolio website yet. Here I have some links to my projects.
+<br/>
+All the projects are Frontend focused.
 <br/><br/>
 
 <h3>Media Scroller</h3>

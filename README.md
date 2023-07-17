@@ -10,7 +10,9 @@ Sadly I haven't made my own portfolio website yet. Here I have some links to my 
 Live: https://topi1.github.io/media-scroller/ <br/>
 Repository: https://github.com/Topi1/media-scroller <br/>
 I practised making horizontal scroller, so I made simple homepage for streaming service. <br/>
-Can change movie/show by clicking, and mobile version looks allright also.
+Can change movie/show by clicking, and mobile version looks allright also. <br/>
+All pictures from pexels.com. <br/>
+HTML, CSS, JS
 <br/><br/>
 
 <h3>Moonfang Gaming News and Game Guides</h3>
@@ -22,11 +24,11 @@ Currently working on this project for my thesis.
 <br/>
 My thesis topic is "Design and implementation of web user interface". 
 <br/>
-Using JSX and Vanilla CSS.
+Vite + React, CSS, JSX
 <br/>
 Logos and icons made by me in Canva. 
 <br/>
-This is my first Vite + React project.<br/>
+This is my first React project.<br/>
 WIP!
 <br/><br/>
 

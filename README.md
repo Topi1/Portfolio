@@ -44,3 +44,11 @@ Etc-A-Sketch  <br/>
 Live: https://topi1.github.io/etch-a-sketch/ <br/>
 Repository: https://github.com/Topi1/etch-a-sketch <br/>
 HTML, CSS, JS
+<br/><br/>
+
+<h3>Very simple WordPress-site</h3>
+<br/>
+Live: http://www.cc.puv.fi/~e2001112/wordpress1/wordpress/kauppa/
+<br/>
+Made for school assignment. <br/>
+Includes simple Elementor CV, Booker and WooCommerce shop.

@@ -33,6 +33,8 @@ Logos and icons made by me in Canva.
 All the images from the games official press kits.
 <br/>
 This is my first React project.<br/>
+Looks good on mobile too.
+<br/>
 WIP!
 <br/><br/>
 

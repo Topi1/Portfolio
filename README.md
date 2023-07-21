@@ -30,6 +30,8 @@ Vite + React, CSS, JSX
 <br/>
 Logos and icons made by me in Canva. 
 <br/>
+All the images from the games official press kits.
+<br/>
 This is my first React project.<br/>
 WIP!
 <br/><br/>

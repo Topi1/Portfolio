@@ -18,6 +18,8 @@ My thesis topic is "Design and implementation of web user interface".
 <br/>
 Vite + React, CSS, JSX
 <br/>
+React Router, React Popups
+<br/>
 Logos and icons made by me in Canva. 
 <br/>
 All the images from the games official press kits.

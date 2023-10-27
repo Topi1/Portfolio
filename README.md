@@ -12,7 +12,7 @@ All the projects are Frontend focused.
 Live: https://topi1.github.io/moonfang/ <br/>
 Repository: https://github.com/Topi1/moonfang
 
-Currently working on this project for my thesis. 
+
 <br/>
 My thesis topic is "Design and implementation of web user interface". 
 <br/>

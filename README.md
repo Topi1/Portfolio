@@ -13,8 +13,7 @@ Live: https://topi1.github.io/moonfang/ <br/>
 Repository: https://github.com/Topi1/moonfang
 
 
-<br/>
-My thesis topic is "Design and implementation of web user interface". 
+
 <br/>
 Vite + React, CSS, JSX
 <br/>

@@ -2,9 +2,11 @@
 
 <h4>Topi Järvinen</h4>
 
-Sadly I haven't made my own portfolio website yet. Here I have some links to my projects.
+<h3>My homesite</h3>
 <br/>
-All the projects are Frontend focused.
+Live: https://topi1.github.io/portfolio-site/ <br/>
+Repository: https://github.com/Topi1/portfolio-site <br/>
+Work in progress but almost done.
 <br/><br/>
 
 <h3>Moonfang Gaming News and Game Guides</h3>
@@ -25,8 +27,7 @@ All the images from the games official press kits.
 <br/>
 This is my first React project.<br/>
 Looks good on mobile too.
-<br/>
-WIP!
+
 <br/><br/>
 
 <h3>Media Scroller</h3>
